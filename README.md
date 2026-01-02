@@ -2,8 +2,6 @@
 
 A modern prompt engineering studio built with LangChain and IBM watsonx.ai. This repository provides a unified, intuitive web application for exploring advanced prompt engineering patterns. It features specialized tools for text summarization, contextual question answering, text classification, natural language to SQL generation, and interactive AI agent chats with custom personas — all powered by watsonx.ai models.
 
-The project includes a Jupyter notebook for learning prompt engineering concepts and a Gradio-based demo app for hands-on interaction.
-
 ## Overview
 
 This studio allows users to experiment with various prompt templates and LLM configurations in a sleek interface. Key highlights:
@@ -87,5 +85,3 @@ Interactive chat with a customizable AI persona.
 
 © 2024-2026 LangChain Prompt Studio | Built with IBM watsonx.ai
 ```
-
-This is the complete `README.md` content in one single block. Just copy everything inside the code block above and save it as `README.md` in your project folder. It will display perfectly on GitHub with all images and formatting.
