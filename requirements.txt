@@ -1,0 +1,4 @@
+gradio
+langchain-ibm
+ibm-watsonx-ai
+langchain-core
